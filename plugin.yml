@@ -1,0 +1,5 @@
+name: DashBlock
+author: alvin0319
+main: DashBlock\DashBlockPlugin
+version: 1.0.0
+api: 4.0.0
